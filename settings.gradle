@@ -1,0 +1,4 @@
+rootProject.name = 'rabbit-test'
+include "rabbit-producer"
+include "rabbit-consumer-1"
+include "rabbit-consumer-2"
